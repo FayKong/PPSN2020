@@ -16,7 +16,7 @@ from sklearn import svm
 
 # %% create chess dataset
 
-glass1_data = pd.read_csv('/Users/Fay_Kong/surfdrive/Documents/CODE_BACKUP/Pconf/myenv/data/glass1.csv')
+glass1_data = pd.read_csv('~/data/glass1.csv')
 X = glass1_data.iloc[:, 0:9]
 
 
