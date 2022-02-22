@@ -1,5 +1,9 @@
 # Improving Imbalanced Classification by Anomaly Detection
 This repository contains the code for introducing two additional attributes to imbalanced datasets and thus improving the imbalanced classification. 
+=======
+[![DOI](https://zenodo.org/badge/405991909.svg)](https://zenodo.org/badge/latestdoi/405991909)
+
+
 
 ## Introduction
 The provided .py file is for the convenience of reproducing the main results of our paper [Improving Imbalanced Classification by Anomaly Detection](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_35) (Kong, Kowalczyk, Menzel & Bäck, 2020). The code is implemented in Python 3.0 and the packages required for implementation are given in the next section.
